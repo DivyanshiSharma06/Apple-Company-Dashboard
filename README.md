@@ -57,4 +57,5 @@ From the dashboard, Business insights are the following: \
 • Some products contribute significantly more sales than others. \
 • Customers use different payment methods.
 
-Screenshot of Dashboard: https://github.com/DivyanshiSharma06/Apple-Company-Dashboard/blob/main/Dashboard.png
+Screenshot of Dashboard: ![Dashboard Screenshot](https://github.com/DivyanshiSharma06/Apple-Company-Dashboard/blob/main/Dashboard.png)
+
