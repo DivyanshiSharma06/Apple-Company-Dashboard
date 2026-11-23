@@ -57,3 +57,4 @@ From the dashboard, Business insights are the following: \
 • Some products contribute significantly more sales than others. \
 • Customers use different payment methods.
 
+Screenshot of Dashboard: Dashboard.png
